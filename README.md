@@ -108,5 +108,7 @@ Now all that is needed is to tell sphinx to build the documentation
 
 ## View html
 
-Go to `doc/build/html` and open `index.html` with your browser. DONE!
+Go to `doc/build/html` and open `index.html` with your browser. It will look like the following: 
+
+![image](https://user-images.githubusercontent.com/21199708/89457940-cfe9e800-d72b-11ea-9129-b999152d9504.png)
 
