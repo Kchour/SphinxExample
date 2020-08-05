@@ -2,7 +2,7 @@
 
 Sphinx is an open source document generation tool for python projects. You can create really elegant html or even pdf documents for your code. Though Sphinx is a great tool, it can be overwhelming to set up. 
 
-This repo will help by showing you how to setup Sphinx
+This repo will help you setup Sphinx
 
 # Requirements
 - Python 3. However, it is still possible to document python2 code with sphinx-python3 
@@ -22,9 +22,9 @@ Note: Code must be documented using `docstrings`. I have opted for Googlestyle d
 - Cd to `doc` and run sphinx's quickstart command `$ sphinx-quickstart`
 - Say yes to `Separate source and build directories (y/n) [n]: `
 - Name your project, I'll call mine "example_sphinx_project"
-- Give your project a name
+- Give your name
 - Give a version number (I try to follow semantic versioning X.Y.Z)
-- Hit enter on language
+- Hit enter on language (if using english)
 
 Your terminal will look something like the following:
 
