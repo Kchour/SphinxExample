@@ -28,6 +28,7 @@ Note: Code must be documented using `docstrings`. I have opted for Googlestyle d
 
 Your terminal will look something like the following:
 
+![image](https://user-images.githubusercontent.com/21199708/89457693-6538ac80-d72b-11ea-9772-664c3d7f3f41.png)
 
 ## Edit `conf.py`
 Remember that Sphinx is not totally automatic, so we need to tune a few settings for it to work. Using your favorite editor, open `doc/source/conf.py`
